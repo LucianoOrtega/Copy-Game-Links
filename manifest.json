@@ -1,7 +1,7 @@
 {
   "name": "Copy Game Links",
   "version": "1.0",
-  "description": "Una extensión que copia los primeros 30 links de búsqueda al presionar Shift + C",
+  "description": "Extensión que te permite copiar fácilmente los enlaces de los juegos del catálogo de Steam al presionar Shift + C",
   "manifest_version": 2,
   "permissions": [
     "clipboardWrite",
